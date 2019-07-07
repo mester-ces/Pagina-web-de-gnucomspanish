@@ -82,12 +82,12 @@ body {
 }
 
 .bg-light {
-  background: #fff;
+  background: rgb(156, 60, 60);
   color: #333;
 }
 
 .bg-dark {
-  background: #2f3542;
+  background: #183b86;
   color: #f4f4f4;
 }
 
