@@ -1,7 +1,12 @@
-footer {
 
-color: fuchsia;
-}
 .nav-link {
-color: orange;
+color: rgb(105, 103, 99);
+}
+
+body {
+
+   background:greenyellow;
+   color: black;
+   
+
 }
